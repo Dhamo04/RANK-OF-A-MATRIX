@@ -27,7 +27,6 @@ import numpy as np
 A=np.array([[3,2,5],[1,1,2],[3,3,6]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
-'''
 
 ## Output:
 ![maths for ai ex2](https://github.com/user-attachments/assets/9d5a901a-695c-49c5-b8a6-c44674bbfb00)
