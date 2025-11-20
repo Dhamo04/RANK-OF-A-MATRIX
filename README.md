@@ -16,7 +16,7 @@ End the program
 
 
 ## Program:
-'''
+```
 Write a program to find the rank for the given matrix [[3,2,5],[1,1,2],[3,3,6]]
 
 #Program to find the rank of a matrix.
